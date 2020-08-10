@@ -8,7 +8,7 @@
 
 ## HTML
 1. [HTML里常见的单位](https://github.com/Liqiuyue9597/front-end-interview/issues/20)
-2. [video标签会预加载视频吗](https://github.com/Liqiuyue9597/front-end-interview/issues/21)
+1. [video标签会预加载视频吗](https://github.com/Liqiuyue9597/front-end-interview/issues/21)
 
 ## CSS
 1. [CSS盒模型](https://github.com/Liqiuyue9597/front-end-interview/issues/10)
@@ -29,6 +29,8 @@
 1. [对virtual DOM的理解](https://github.com/Liqiuyue9597/front-end-interview/issues/12)
 
 ## React
+1. [对virtual DOM的理解](https://github.com/Liqiuyue9597/front-end-interview/issues/12)
+1. [React里key的作用](https://github.com/Liqiuyue9597/front-end-interview/issues/23)
 
 ## 计算机网络
 1. [TCP/UDP区别](https://github.com/Liqiuyue9597/front-end-interview/issues/11)
