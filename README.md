@@ -17,6 +17,7 @@
 
 ## JavaScript+ES6
 1. [什么是闭包](https://github.com/Liqiuyue9597/front-end-interview/issues/18)
+1. [关于闭包的应用题](https://github.com/Liqiuyue9597/front-end-interview/issues/25)
 1. [undefined和null区别](https://github.com/Liqiuyue9597/front-end-interview/issues/17)
 1. [JavaScript中怎么判断相等](https://github.com/Liqiuyue9597/front-end-interview/issues/16)
 1. [let const var的区别](https://github.com/Liqiuyue9597/front-end-interview/issues/15)
