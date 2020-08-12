@@ -23,7 +23,7 @@
 1. [let const var的区别](https://github.com/Liqiuyue9597/front-end-interview/issues/15)
 1. [JavaScript的基本数据类型+ES6新增](https://github.com/Liqiuyue9597/front-end-interview/issues/14)
 1. [箭头函数相关](https://github.com/Liqiuyue9597/front-end-interview/issues/7)
-1. [this指向/作用域/原型链问题](https://github.com/Liqiuyue9597/front-end-interview/issues/2)
+1. [this指向/变量声明提升/作用域链问题](https://github.com/Liqiuyue9597/front-end-interview/issues/2)
 1. [匿名函数（自执行函数IIFE）的作用是什么](https://github.com/Liqiuyue9597/front-end-interview/issues/24)
 
 ## Vue
