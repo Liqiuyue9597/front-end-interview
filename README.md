@@ -14,6 +14,7 @@
 1. [CSS盒模型](https://github.com/Liqiuyue9597/front-end-interview/issues/10)
 1. [如何实现盒子水平垂直居中](https://github.com/Liqiuyue9597/front-end-interview/issues/8)
 1. [左边固定，右边自适应的布局（尽可能多的方法）](https://github.com/Liqiuyue9597/front-end-interview/issues/5)
+1. [选择器排序](https://github.com/Liqiuyue9597/front-end-interview/issues/32)
 
 ## JavaScript+ES6
 1. [什么是闭包](https://github.com/Liqiuyue9597/front-end-interview/issues/18)
@@ -27,6 +28,7 @@
 1. [匿名函数（自执行函数IIFE）的作用是什么](https://github.com/Liqiuyue9597/front-end-interview/issues/24)
 1. [数组去重](https://github.com/Liqiuyue9597/front-end-interview/issues/26)
 1. [实现图片懒加载](https://github.com/Liqiuyue9597/front-end-interview/issues/29)
+1. [DOM事件的捕获、冒泡和委派](https://github.com/Liqiuyue9597/front-end-interview/issues/33)
 
 ## Vue
 1. [Vue的响应式（双向绑定）原理](https://github.com/Liqiuyue9597/front-end-interview/issues/13)
