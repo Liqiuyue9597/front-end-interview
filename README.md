@@ -26,6 +26,7 @@
 1. [this指向/变量声明提升/作用域链问题](https://github.com/Liqiuyue9597/front-end-interview/issues/2)
 1. [匿名函数（自执行函数IIFE）的作用是什么](https://github.com/Liqiuyue9597/front-end-interview/issues/24)
 1. [数组去重](https://github.com/Liqiuyue9597/front-end-interview/issues/26)
+1. [实现图片懒加载](https://github.com/Liqiuyue9597/front-end-interview/issues/29)
 
 ## Vue
 1. [Vue的响应式（双向绑定）原理](https://github.com/Liqiuyue9597/front-end-interview/issues/13)
@@ -39,9 +40,12 @@
 1. [TCP/UDP区别](https://github.com/Liqiuyue9597/front-end-interview/issues/11)
 1. [怎么实现跨域](https://github.com/Liqiuyue9597/front-end-interview/issues/9)
 1. [讲一下HTTP的缓存](https://github.com/Liqiuyue9597/front-end-interview/issues/22)
+1. [HTTP状态码301和302](https://github.com/Liqiuyue9597/front-end-interview/issues/31)
 
 ## 算法
 1. [版本号排序](https://github.com/Liqiuyue9597/front-end-interview/issues/4)
 1. [复原IP地址](https://github.com/Liqiuyue9597/front-end-interview/issues/6)
 1. [两个二维矩阵相乘](https://github.com/Liqiuyue9597/front-end-interview/issues/19)
 1. [数组去重](https://github.com/Liqiuyue9597/front-end-interview/issues/26)
+1. [写快排](https://github.com/Liqiuyue9597/front-end-interview/issues/28)
+1. [合并有序数组](https://github.com/Liqiuyue9597/front-end-interview/issues/27)
