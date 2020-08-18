@@ -15,6 +15,7 @@
 1. [如何实现盒子水平垂直居中](https://github.com/Liqiuyue9597/front-end-interview/issues/8)
 1. [左边固定，右边自适应的布局（尽可能多的方法）](https://github.com/Liqiuyue9597/front-end-interview/issues/5)
 1. [选择器排序](https://github.com/Liqiuyue9597/front-end-interview/issues/32)
+1. [怎么实现动画一个元素从左滑到右](https://github.com/Liqiuyue9597/front-end-interview/issues/35)
 
 ## JavaScript+ES6
 1. [什么是闭包](https://github.com/Liqiuyue9597/front-end-interview/issues/18)
@@ -27,8 +28,11 @@
 1. [this指向/变量声明提升/作用域链问题](https://github.com/Liqiuyue9597/front-end-interview/issues/2)
 1. [匿名函数（自执行函数IIFE）的作用是什么](https://github.com/Liqiuyue9597/front-end-interview/issues/24)
 1. [数组去重](https://github.com/Liqiuyue9597/front-end-interview/issues/26)
-1. [实现图片懒加载](https://github.com/Liqiuyue9597/front-end-interview/issues/29)
+
+## DOM/BOM/事件
 1. [DOM事件的捕获、冒泡和委派](https://github.com/Liqiuyue9597/front-end-interview/issues/33)
+1. [实现图片懒加载](https://github.com/Liqiuyue9597/front-end-interview/issues/29)
+1. [脚本如何全局检测错误](https://github.com/Liqiuyue9597/front-end-interview/issues/34)
 
 ## Vue
 1. [Vue的响应式（双向绑定）原理](https://github.com/Liqiuyue9597/front-end-interview/issues/13)
@@ -43,6 +47,8 @@
 1. [怎么实现跨域](https://github.com/Liqiuyue9597/front-end-interview/issues/9)
 1. [讲一下HTTP的缓存](https://github.com/Liqiuyue9597/front-end-interview/issues/22)
 1. [HTTP状态码301和302](https://github.com/Liqiuyue9597/front-end-interview/issues/31)
+1. [HTTP状态码304](https://github.com/Liqiuyue9597/front-end-interview/issues/36)
+1. [TCP的慢启动算法](https://github.com/Liqiuyue9597/front-end-interview/issues/37)
 
 ## 算法
 1. [版本号排序](https://github.com/Liqiuyue9597/front-end-interview/issues/4)
