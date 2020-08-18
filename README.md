@@ -28,6 +28,7 @@
 1. [this指向/变量声明提升/作用域链问题](https://github.com/Liqiuyue9597/front-end-interview/issues/2)
 1. [匿名函数（自执行函数IIFE）的作用是什么](https://github.com/Liqiuyue9597/front-end-interview/issues/24)
 1. [数组去重](https://github.com/Liqiuyue9597/front-end-interview/issues/26)
+1. [Promise的串行调用](https://github.com/Liqiuyue9597/front-end-interview/issues/38)
 
 ## DOM/BOM/事件
 1. [DOM事件的捕获、冒泡和委派](https://github.com/Liqiuyue9597/front-end-interview/issues/33)
