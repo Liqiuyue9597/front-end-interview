@@ -35,11 +35,17 @@
 1. [每隔一秒打印数组里的元素](https://github.com/Liqiuyue9597/front-end-interview/issues/41)
 1. [实现数组的扁平化](https://github.com/Liqiuyue9597/front-end-interview/issues/40)
 1. [async函数与Promise的区别](https://github.com/Liqiuyue9597/front-end-interview/issues/39)
+1. [JavaScript文件在HTML文件里的执行顺序](https://github.com/Liqiuyue9597/front-end-interview/issues/45)
 
 ## DOM/BOM/事件
 1. [DOM事件的捕获、冒泡和委派](https://github.com/Liqiuyue9597/front-end-interview/issues/33)
 1. [实现图片懒加载](https://github.com/Liqiuyue9597/front-end-interview/issues/29)
 1. [脚本如何全局检测错误](https://github.com/Liqiuyue9597/front-end-interview/issues/34)
+
+## 浏览器
+1. [浏览器的进程](https://github.com/Liqiuyue9597/front-end-interview/issues/47)
+1. [CSS和JS文件阻塞浏览器页面加载吗](https://github.com/Liqiuyue9597/front-end-interview/issues/46)
+1. [宏任务和微任务的区别](https://github.com/Liqiuyue9597/front-end-interview/issues/48)
 
 ## Vue
 1. [Vue的响应式（双向绑定）原理](https://github.com/Liqiuyue9597/front-end-interview/issues/13)
