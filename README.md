@@ -16,6 +16,7 @@
 1. [左边固定，右边自适应的布局（尽可能多的方法）](https://github.com/Liqiuyue9597/front-end-interview/issues/5)
 1. [选择器排序](https://github.com/Liqiuyue9597/front-end-interview/issues/32)
 1. [怎么实现动画一个元素从左滑到右](https://github.com/Liqiuyue9597/front-end-interview/issues/35)
+1. [inline、inline-block、block的区别](https://github.com/Liqiuyue9597/front-end-interview/issues/42)
 
 ## JavaScript+ES6
 1. [什么是闭包](https://github.com/Liqiuyue9597/front-end-interview/issues/18)
@@ -29,6 +30,11 @@
 1. [匿名函数（自执行函数IIFE）的作用是什么](https://github.com/Liqiuyue9597/front-end-interview/issues/24)
 1. [数组去重](https://github.com/Liqiuyue9597/front-end-interview/issues/26)
 1. [Promise的串行调用](https://github.com/Liqiuyue9597/front-end-interview/issues/38)
+1. [原型链/原型链继承](https://github.com/Liqiuyue9597/front-end-interview/issues/44)
+1. [封装个可以检测所有数据类型的函数](https://github.com/Liqiuyue9597/front-end-interview/issues/43)
+1. [每隔一秒打印数组里的元素](https://github.com/Liqiuyue9597/front-end-interview/issues/41)
+1. [实现数组的扁平化](https://github.com/Liqiuyue9597/front-end-interview/issues/40)
+1. [async函数与Promise的区别](https://github.com/Liqiuyue9597/front-end-interview/issues/39)
 
 ## DOM/BOM/事件
 1. [DOM事件的捕获、冒泡和委派](https://github.com/Liqiuyue9597/front-end-interview/issues/33)
@@ -58,3 +64,4 @@
 1. [数组去重](https://github.com/Liqiuyue9597/front-end-interview/issues/26)
 1. [写快排](https://github.com/Liqiuyue9597/front-end-interview/issues/28)
 1. [合并有序数组](https://github.com/Liqiuyue9597/front-end-interview/issues/27)
+1. [实现数组的扁平化](https://github.com/Liqiuyue9597/front-end-interview/issues/40)
