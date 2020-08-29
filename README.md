@@ -63,6 +63,9 @@
 1. [HTTP状态码304](https://github.com/Liqiuyue9597/front-end-interview/issues/36)
 1. [TCP的慢启动算法](https://github.com/Liqiuyue9597/front-end-interview/issues/37)
 
+## 工程模块+webpack
+1. [模块化规范](https://github.com/Liqiuyue9597/front-end-interview/issues/51)
+
 ## 算法
 1. [版本号排序](https://github.com/Liqiuyue9597/front-end-interview/issues/4)
 1. [复原IP地址](https://github.com/Liqiuyue9597/front-end-interview/issues/6)
@@ -71,3 +74,6 @@
 1. [写快排](https://github.com/Liqiuyue9597/front-end-interview/issues/28)
 1. [合并有序数组](https://github.com/Liqiuyue9597/front-end-interview/issues/27)
 1. [实现数组的扁平化](https://github.com/Liqiuyue9597/front-end-interview/issues/40)
+1. [找出字符串中第一个不重复的字符](https://github.com/Liqiuyue9597/front-end-interview/issues/49)
+1. [合并两个有序链表](https://github.com/Liqiuyue9597/front-end-interview/issues/50)
+1. [买卖股票的最佳时机](https://github.com/Liqiuyue9597/front-end-interview/issues/52)
