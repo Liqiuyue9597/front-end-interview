@@ -17,6 +17,7 @@
 1. [选择器排序](https://github.com/Liqiuyue9597/front-end-interview/issues/32)
 1. [怎么实现动画一个元素从左滑到右](https://github.com/Liqiuyue9597/front-end-interview/issues/35)
 1. [inline、inline-block、block的区别](https://github.com/Liqiuyue9597/front-end-interview/issues/42)
+1. [外边距重叠](https://github.com/Liqiuyue9597/front-end-interview/issues/54)
 
 ## JavaScript+ES6
 1. [什么是闭包](https://github.com/Liqiuyue9597/front-end-interview/issues/18)
@@ -36,6 +37,7 @@
 1. [实现数组的扁平化](https://github.com/Liqiuyue9597/front-end-interview/issues/40)
 1. [async函数与Promise的区别](https://github.com/Liqiuyue9597/front-end-interview/issues/39)
 1. [JavaScript文件在HTML文件里的执行顺序](https://github.com/Liqiuyue9597/front-end-interview/issues/45)
+1. [有哪些方式可以判断是否是数组](https://github.com/Liqiuyue9597/front-end-interview/issues/53)
 
 ## DOM/BOM/事件
 1. [DOM事件的捕获、冒泡和委派](https://github.com/Liqiuyue9597/front-end-interview/issues/33)
