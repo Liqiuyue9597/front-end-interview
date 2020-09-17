@@ -39,6 +39,7 @@
 1. [async函数与Promise的区别](https://github.com/Liqiuyue9597/front-end-interview/issues/39)
 1. [JavaScript文件在HTML文件里的执行顺序](https://github.com/Liqiuyue9597/front-end-interview/issues/45)
 1. [有哪些方式可以判断是否是数组](https://github.com/Liqiuyue9597/front-end-interview/issues/53)
+1. [设计模式](https://github.com/Liqiuyue9597/front-end-interview/issues/61)
 
 ## DOM/BOM/事件
 1. [DOM事件的捕获、冒泡和委派](https://github.com/Liqiuyue9597/front-end-interview/issues/33)
@@ -58,6 +59,7 @@
 1. [讲一下nextTick的原理](https://github.com/Liqiuyue9597/front-end-interview/issues/58)
 1. [Vue生命周期](https://github.com/Liqiuyue9597/front-end-interview/issues/59)
 1. [computed和watch](https://github.com/Liqiuyue9597/front-end-interview/issues/60)
+1. [讲一下vuex](https://github.com/Liqiuyue9597/front-end-interview/issues/62)
 
 ## React
 1. [对virtual DOM的理解](https://github.com/Liqiuyue9597/front-end-interview/issues/12)
@@ -85,3 +87,4 @@
 1. [找出字符串中第一个不重复的字符](https://github.com/Liqiuyue9597/front-end-interview/issues/49)
 1. [合并两个有序链表](https://github.com/Liqiuyue9597/front-end-interview/issues/50)
 1. [买卖股票的最佳时机](https://github.com/Liqiuyue9597/front-end-interview/issues/52)
+1. [二叉树后序遍历](https://github.com/Liqiuyue9597/front-end-interview/issues/63)
