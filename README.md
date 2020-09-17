@@ -18,6 +18,7 @@
 1. [怎么实现动画一个元素从左滑到右](https://github.com/Liqiuyue9597/front-end-interview/issues/35)
 1. [inline、inline-block、block的区别](https://github.com/Liqiuyue9597/front-end-interview/issues/42)
 1. [外边距重叠](https://github.com/Liqiuyue9597/front-end-interview/issues/54)
+1. [行内元素和块级元素区别](https://github.com/Liqiuyue9597/front-end-interview/issues/55)
 
 ## JavaScript+ES6
 1. [什么是闭包](https://github.com/Liqiuyue9597/front-end-interview/issues/18)
@@ -48,6 +49,8 @@
 1. [浏览器的进程](https://github.com/Liqiuyue9597/front-end-interview/issues/47)
 1. [CSS和JS文件阻塞浏览器页面加载吗](https://github.com/Liqiuyue9597/front-end-interview/issues/46)
 1. [宏任务和微任务的区别](https://github.com/Liqiuyue9597/front-end-interview/issues/48)
+1. [cookie/session/SessionStorage和LocalStorage区别](https://github.com/Liqiuyue9597/front-end-interview/issues/56)
+1. [如何监听input里内容的改变](https://github.com/Liqiuyue9597/front-end-interview/issues/57)
 
 ## Vue
 1. [Vue的响应式（双向绑定）原理](https://github.com/Liqiuyue9597/front-end-interview/issues/13)
