@@ -57,7 +57,7 @@
 1. [对virtual DOM的理解](https://github.com/Liqiuyue9597/front-end-interview/issues/12)
 1. [讲一下nextTick的原理](https://github.com/Liqiuyue9597/front-end-interview/issues/58)
 1. [Vue生命周期](https://github.com/Liqiuyue9597/front-end-interview/issues/59)
-1.[computed和watch](https://github.com/Liqiuyue9597/front-end-interview/issues/60)
+1. [computed和watch](https://github.com/Liqiuyue9597/front-end-interview/issues/60)
 
 ## React
 1. [对virtual DOM的理解](https://github.com/Liqiuyue9597/front-end-interview/issues/12)
