@@ -19,7 +19,7 @@
 1. [inline、inline-block、block的区别](https://github.com/Liqiuyue9597/front-end-interview/issues/42)
 1. [外边距重叠](https://github.com/Liqiuyue9597/front-end-interview/issues/54)
 
-## JavaScript+ES6
+## JavaScript
 1. [什么是闭包](https://github.com/Liqiuyue9597/front-end-interview/issues/18)
 1. [关于闭包的应用题](https://github.com/Liqiuyue9597/front-end-interview/issues/25)
 1. [undefined和null区别](https://github.com/Liqiuyue9597/front-end-interview/issues/17)
@@ -40,6 +40,14 @@
 1. [有哪些方式可以判断是否是数组](https://github.com/Liqiuyue9597/front-end-interview/issues/53)
 1. [设计模式](https://github.com/Liqiuyue9597/front-end-interview/issues/61)
 
+## ES6
+1. [箭头函数相关](https://github.com/Liqiuyue9597/front-end-interview/issues/7)
+1. [数组去重](https://github.com/Liqiuyue9597/front-end-interview/issues/26)
+1. [let const var的区别](https://github.com/Liqiuyue9597/front-end-interview/issues/15)
+1. [JavaScript的基本数据类型+ES6新增](https://github.com/Liqiuyue9597/front-end-interview/issues/14)
+1. [发布订阅模式](https://github.com/Liqiuyue9597/front-end-interview/issues/66)
+1. [实现Promise的all方法](https://github.com/Liqiuyue9597/front-end-interview/issues/68)
+
 ## DOM/BOM/事件
 1. [DOM事件的捕获、冒泡和委派](https://github.com/Liqiuyue9597/front-end-interview/issues/33)
 1. [实现图片懒加载](https://github.com/Liqiuyue9597/front-end-interview/issues/29)
@@ -59,6 +67,7 @@
 1. [Vue生命周期](https://github.com/Liqiuyue9597/front-end-interview/issues/59)
 1. [computed和watch](https://github.com/Liqiuyue9597/front-end-interview/issues/60)
 1. [讲一下vuex](https://github.com/Liqiuyue9597/front-end-interview/issues/62)
+1. [Vue和React的区别是什么](https://github.com/Liqiuyue9597/front-end-interview/issues/67)
 
 ## React
 1. [对virtual DOM的理解](https://github.com/Liqiuyue9597/front-end-interview/issues/12)
@@ -87,3 +96,5 @@
 1. [合并两个有序链表](https://github.com/Liqiuyue9597/front-end-interview/issues/50)
 1. [买卖股票的最佳时机](https://github.com/Liqiuyue9597/front-end-interview/issues/52)
 1. [二叉树后序遍历](https://github.com/Liqiuyue9597/front-end-interview/issues/63)
+1. [合并区间](https://github.com/Liqiuyue9597/front-end-interview/issues/64)
+1. [字符串数字相加](https://github.com/Liqiuyue9597/front-end-interview/issues/65)
