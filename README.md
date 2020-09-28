@@ -18,6 +18,7 @@
 1. [怎么实现动画一个元素从左滑到右](https://github.com/Liqiuyue9597/front-end-interview/issues/35)
 1. [inline、inline-block、block的区别](https://github.com/Liqiuyue9597/front-end-interview/issues/42)
 1. [外边距重叠](https://github.com/Liqiuyue9597/front-end-interview/issues/54)
+1. [src和href区别](https://github.com/Liqiuyue9597/front-end-interview/issues/69)
 
 ## JavaScript
 1. [什么是闭包](https://github.com/Liqiuyue9597/front-end-interview/issues/18)
@@ -53,6 +54,7 @@
 1. [实现图片懒加载](https://github.com/Liqiuyue9597/front-end-interview/issues/29)
 1. [脚本如何全局检测错误](https://github.com/Liqiuyue9597/front-end-interview/issues/34)
 1. [如何监听input里内容的改变](https://github.com/Liqiuyue9597/front-end-interview/issues/57)
+1. [事件的target/currentTarget的区别](https://github.com/Liqiuyue9597/front-end-interview/issues/71)
 
 ## 浏览器
 1. [浏览器的进程](https://github.com/Liqiuyue9597/front-end-interview/issues/47)
@@ -98,3 +100,4 @@
 1. [二叉树后序遍历](https://github.com/Liqiuyue9597/front-end-interview/issues/63)
 1. [合并区间](https://github.com/Liqiuyue9597/front-end-interview/issues/64)
 1. [字符串数字相加](https://github.com/Liqiuyue9597/front-end-interview/issues/65)
+1. [随机数（洗牌算法）](https://github.com/Liqiuyue9597/front-end-interview/issues/70)
