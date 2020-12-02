@@ -63,13 +63,14 @@
 1. [cookie/session/SessionStorage和LocalStorage区别](https://github.com/Liqiuyue9597/front-end-interview/issues/56)[★★★]
 
 ## Vue
-1. [Vue的响应式（双向绑定）原理](https://github.com/Liqiuyue9597/front-end-interview/issues/13)[★★]
+1. [Vue的响应式（双向绑定）原理](https://github.com/Liqiuyue9597/front-end-interview/issues/13)[★★★★]
 1. [对virtual DOM的理解](https://github.com/Liqiuyue9597/front-end-interview/issues/12)[★]
 1. [讲一下nextTick的原理](https://github.com/Liqiuyue9597/front-end-interview/issues/58)[★]
-1. [Vue生命周期](https://github.com/Liqiuyue9597/front-end-interview/issues/59)[★★]
+1. [Vue生命周期](https://github.com/Liqiuyue9597/front-end-interview/issues/59)[★★★]
 1. [computed和watch](https://github.com/Liqiuyue9597/front-end-interview/issues/60)[★★]
-1. [讲一下vuex](https://github.com/Liqiuyue9597/front-end-interview/issues/62)[★★]
+1. [讲一下vuex](https://github.com/Liqiuyue9597/front-end-interview/issues/62)[★★★]
 1. [Vue和React的区别是什么](https://github.com/Liqiuyue9597/front-end-interview/issues/67)[★]
+1. [Vue中key的作用](https://github.com/Liqiuyue9597/front-end-interview/issues/74)[★★★]
 
 ## React
 1. [对virtual DOM的理解](https://github.com/Liqiuyue9597/front-end-interview/issues/12)[★]
@@ -102,3 +103,4 @@
 1. [字符串数字相加](https://github.com/Liqiuyue9597/front-end-interview/issues/65)[★]
 1. [随机数（洗牌算法）](https://github.com/Liqiuyue9597/front-end-interview/issues/70)[★]
 1. [实现trim功能](https://github.com/Liqiuyue9597/front-end-interview/issues/72)[★]
+1. [类似逆波兰表达式的题](https://github.com/Liqiuyue9597/front-end-interview/issues/73)[★★]
