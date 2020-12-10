@@ -104,3 +104,6 @@
 1. [随机数（洗牌算法）](https://github.com/Liqiuyue9597/front-end-interview/issues/70)[★]
 1. [实现trim功能](https://github.com/Liqiuyue9597/front-end-interview/issues/72)[★]
 1. [类似逆波兰表达式的题](https://github.com/Liqiuyue9597/front-end-interview/issues/73)[★★]
+1. [十进制转二十六进制](https://github.com/Liqiuyue9597/front-end-interview/issues/75)[★]
+1. [找出位置连续的最长递增序列](https://github.com/Liqiuyue9597/front-end-interview/issues/76)[★]
+1. [二叉搜索树的第K大的值](https://github.com/Liqiuyue9597/front-end-interview/issues/77)[★]
