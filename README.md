@@ -83,6 +83,8 @@
 1. [HTTP状态码301和302](https://github.com/Liqiuyue9597/front-end-interview/issues/31)[★★]
 1. [HTTP状态码304](https://github.com/Liqiuyue9597/front-end-interview/issues/36)[★★]
 1. [TCP的慢启动算法](https://github.com/Liqiuyue9597/front-end-interview/issues/37)[★]
+1. [输入URL到浏览器显示页面的过程](https://github.com/Liqiuyue9597/front-end-interview/issues/78)[★★]
+1. [HTTP1.0/1.1/2.0/3.0](https://github.com/Liqiuyue9597/front-end-interview/issues/79)[★★★]
 
 ## 工程模块+webpack
 1. [模块化规范](https://github.com/Liqiuyue9597/front-end-interview/issues/51)[★]
